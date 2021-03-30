@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0be0a8"],{"2f20":function(n,e,t){"use strict";t.r(e);var o=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v(" "+n._s(n.$t("facility.inDevelopment"))+" ")])},c=[],i={name:"Booking",components:{}},l=i,a=t("2877"),s=Object(a["a"])(l,o,c,!1,null,null,null);e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0be0a8.9057e53a.js.map

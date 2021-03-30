@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b2c9d"],{2636:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v(" "+n._s(n.$t("facility.inDevelopment"))+" ")])},s=[],i={name:"FeesPoints",components:{}},l=i,o=t("2877"),u=Object(o["a"])(l,c,s,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0b2c9d.2617eec9.js.map
